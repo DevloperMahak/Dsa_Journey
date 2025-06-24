@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 class Naturalno_Sum{
 
+    //[Naive Approach] Using Loop - O(n) Time and O(1) Space
     static int findSum(int n) {
         int sum = 0;
         // iterating over all the numbers
@@ -15,6 +16,7 @@ class Naturalno_Sum{
 
     static int findTotal(int n)
     {
+        //[Expected Approach] Formula Based Method- O(1) Time and O(1) Space
         // Using mathematical formula to compute
         // sum of first n natural numbers
         return n * (n + 1) / 2;
