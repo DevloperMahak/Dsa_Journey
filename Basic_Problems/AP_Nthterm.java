@@ -1,4 +1,4 @@
-package Logic_Building;
+package Logic_Building.Basic_Problems;
 
 import java.util.Scanner;
 
