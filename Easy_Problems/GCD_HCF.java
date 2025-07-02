@@ -2,6 +2,7 @@ package Logic_Building.Easy_Problems;
 
 import java.util.Scanner;
 
+//The GCD (Greatest Common Divisor) or HCF (Highest Common Factor) of two numbers is the largest number that divides both of them.
 public class GCD_HCF{
 
     //[Approach - 1] Using Loop - O(min(a, b)) Time and O(1) Space
